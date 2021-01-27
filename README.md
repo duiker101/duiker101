@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Simone, I like learning and creating!
+I like learning and creating!
 
 You might know me for some of my projects like:
 - [HackerTyper.net](https://hackertyper.com)
